@@ -31,9 +31,9 @@ The system was built using C++ for Arduino with a clear modular structure separa
 
 ## Project Structure
 
-- `code/` – Arduino source files (`.ino`, `.h`, `.cpp`)
-- `docs/` – Project planning document and flowchart (vuokaavio)
-- `video/` – Team demo video (documentation purposes)
+- code/ – Arduino source files (.ino, .h, .cpp)
+- docs/ – Project planning document and flowchart (vuokaavio)
+- video/ – Team demo video (documentation purposes)
 
 ---
 
@@ -57,7 +57,7 @@ The system was built using C++ for Arduino with a clear modular structure separa
 
 ## How to Run
 
-1. Open `SpedenSpelit.ino` in the Arduino IDE.
+1. Open SpedenSpelit.ino in the Arduino IDE.
 2. Connect the Arduino to the circuit according to the project documentation.
 3. Upload the sketch and start the game.
 
