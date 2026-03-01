@@ -62,5 +62,8 @@ The system was built using C++ for Arduino with a clear modular structure separa
 3. Upload the sketch and start the game.
 
 ---
+## Demo video
+https://youtu.be/B6z0feBqs8E
 
+---
 *This project demonstrates early hands-on experience with embedded programming and hardware interaction.*
